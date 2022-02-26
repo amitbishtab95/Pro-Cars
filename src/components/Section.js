@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from "styled-components"
 import Fade from 'react-reveal/Fade';
-
+import downArrow from '../img/down-arrow.svg';
 
 function Section({ title, description, leftBtnText, rightBtnText, backgroundImg }) {
     // pass props and use as object or unpack individual
@@ -22,7 +22,7 @@ function Section({ title, description, leftBtnText, rightBtnText, backgroundImg 
                         }
                     </ButtonGroup>
                 </Fade>
-                <DownArrow src="/images/down-arrow.svg"></DownArrow>
+                <DownArrow src={downArrow}></DownArrow>
             </Buttons>
         </Wrap>
     )
@@ -92,4 +92,3 @@ animation:animateDown infinite 1.5s;
 
 const Buttons = styled.div`
 `
-
