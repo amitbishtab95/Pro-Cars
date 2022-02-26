@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.<br/>
-Styled Componets<br/>
-Props<br/>
-Responsive<br/>
-React reveal module animation<br/>
-Redux for Nav<br/>
+1-Styled Componets<br/>
+2-Props<br/>
+3-Responsive<br/>
+4-React reveal module animation<br/>
+5-Redux for Nav<br/>
 
 ## Available Scripts
 
