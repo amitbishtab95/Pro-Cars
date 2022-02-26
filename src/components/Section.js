@@ -43,7 +43,7 @@ display:flex;
 flex-direction:column; 
 justify-content:space-between;
 align-items:center;
-background-image:${props => `url("/images/${props.bgImages}")`};
+background-image:${props => `url("images/${props.bgImages}")`};
 z-index:-1;
 `
 
