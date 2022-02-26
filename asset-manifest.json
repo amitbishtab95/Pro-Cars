@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pro-Cars/static/css/main.f06b6c30.css",
+    "main.js": "/Pro-Cars/static/js/main.a2a01263.js",
+    "index.html": "/Pro-Cars/index.html",
+    "main.f06b6c30.css.map": "/Pro-Cars/static/css/main.f06b6c30.css.map",
+    "main.a2a01263.js.map": "/Pro-Cars/static/js/main.a2a01263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06b6c30.css",
+    "static/js/main.a2a01263.js"
+  ]
+}
